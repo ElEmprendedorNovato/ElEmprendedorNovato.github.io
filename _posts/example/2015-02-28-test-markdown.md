@@ -4,6 +4,8 @@ title: Test markdown
 subtitle: Each post also has a subtitle
 gh-repo: ElEmprendedorNovato
 gh-badge: [star, fork, follow]
+bigimg: /img/path.jpg
+image: /img/hello_world.jpeg
 tags: [test]
 comments: true
 ---
