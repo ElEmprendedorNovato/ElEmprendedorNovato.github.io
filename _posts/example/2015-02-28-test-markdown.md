@@ -2,7 +2,7 @@
 layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
-gh-repo: https://github.com/ElEmprendedorNovato/ElEmprendedorNovato.github.io
+gh-repo: ElEmprendedorNovato
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
@@ -40,6 +40,7 @@ var foo = function(x) {
 }
 foo(3)
 ~~~
+
 
 And here is the same code with syntax highlighting:
 
