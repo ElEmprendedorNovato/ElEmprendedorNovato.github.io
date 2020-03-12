@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Como crear nuestra primer app
+title: Primeros pasos para una App
 subtitle: En este post veremos que es Flutter y sus ventajas
 image: /img/celphone.png
 bigimg: https://api.ed.team/public-files/blogposters/4741ba35-ee5a-453f-baeb-9afe00962e37.png
 tags: [App, Flutter, Android, IOS, Google]
+comments: true
 ---
 
 **[Flutter](https://flutter-es.io)** es un framework para crear aplicaciones móviles para iOS y Android, el propósito del framework es facilitar la creación de aplicaciones estéticas, nativas y de alto rendimiento desde una misma base de código.
@@ -20,7 +21,7 @@ El uso de Flutter es **gratis** solo se paga por la publicacion de las aplicacio
 
 Utilizar Flutter es relativamente facil, pude crear una App sin mayores complicaciones sin tener conocimientos de Dart. Algo que llama la atencion en este framework es que todo absolutamente todo en la app es un widget
 
-Algunos de los Widgets mas utilizados y basicos son:
+Algunos de los Widgets más utilizados y básicos son:
 
 ![layout](https://flutter-es.io/assets/ui/layout/title-section-parts-91480d296e122c9cf2994439b82da0c43df795c1085ec6efb9a916da371248c5.png)
 
@@ -32,4 +33,6 @@ Algunos de los Widgets mas utilizados y basicos son:
 
 **Container**: El widget Container te permite crear un elemento visuales rectangular. Un contenedor puede ser decorado con un BoxDecoration, como un fondo, un borde o una sombra. Un Container también puede tener márgenes, relleno interno y restricciones aplicadas a su tamaño. Además, un Container puede transformarse en un espacio tridimensional utilizando una matriz.
 
-Para terminar recomiendo realizar un boceto de la aplicacion que queramos desarrollar antes de comenzar esto nos ahorra tiempo y es totalmente necesario para aterrizar y validar nuestras ideas con nuestros posibles usuarios.
+Para terminar, recomiendo realizar un boceto de la aplicacion que queramos desarrollar antes de comenzar, esto nos ahorra tiempo y es totalmente necesario para aterrizar y validar nuestras ideas con nuestros posibles usuarios.
+
+
