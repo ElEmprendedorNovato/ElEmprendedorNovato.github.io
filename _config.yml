@@ -4,7 +4,7 @@
 title: El Blog del Emprendedor Novato
 
 # Short description of your site
-description: En este Blog personal documentare cada 2 días lo que este aprendiendo y estará escrito en inglés para mejorar mi fluidez con el idioma.
+description: En este Blog personal documentaré cada 2 días lo que este aprendiendo.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -73,7 +73,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: elemprendedornovato
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
