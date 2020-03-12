@@ -3,7 +3,7 @@ layout: post
 title: Como crear nuestra primer app
 subtitle: En este post veremos que es Flutter y sus ventajas
 image: /img/celphone.png
-bigimg: /img/flutterBanner.jpg
+bigimg: /img/flutter_banner.jpg
 tags: [App, Flutter, Android, IOS, Google]
 ---
 
