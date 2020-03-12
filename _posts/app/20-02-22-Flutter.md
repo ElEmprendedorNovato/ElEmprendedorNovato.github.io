@@ -1,26 +1,17 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Flutter Testing App
+subtitle: In this post we will create an application test with Platzi
+
 gh-repo: ElEmprendedorNovato
 gh-badge: [star, fork, follow]
-<<<<<<< HEAD:_posts/2020-03-12-Flutter.md
-bigimg: /img/flutterBanner.jpg
-image: /img/celphone.png
+bigimg: /img/path.jpg
+image: /img/hello_world.jpeg
 tags: [Test][Platzi][Flutter][App]
 comments: true
 ---
 
-**[Flutter](https://flutter-es.io)** es un framework para crear aplicaciones móviles para iOS y Android, el propósito del framework es facilitar la creación de aplicaciones estéticas, nativas y de alto rendimiento desde una misma base de código.
-=======
-bigimg: /img/path.jpg
-image: /img/hello_world.jpeg
-tags: [test]
-comments: true
----
-
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
->>>>>>> parent of f9563d1... reestructurando:_posts/example/2015-02-28-test-markdown.md
 
 **Here is some bold text**
 
